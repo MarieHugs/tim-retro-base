@@ -1,0 +1,17 @@
+
+.header-principal{
+  background-color: var(--couleurnoir);
+
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+
+h1{
+  padding: 15px 0;
+
+  color: var(--couleurblanc);
+
+  font-family: var(--fontsecondaire);
+  font-size: 36px;
+}
